@@ -1,0 +1,8 @@
+git init    //Inicializar el repo local
+git add .  //Agregar Archivos
+git commit -m "Mensaje" //Punto de guardado
+git remote add origin url_de_github //Enlazar remoto con local
+git push -u origin master // Empujar los cambios
+
+2,3,5
+
